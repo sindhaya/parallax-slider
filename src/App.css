@@ -1,0 +1,12 @@
+
+.mahi{
+    text-align: center;
+    background-color: aquamarine;
+    text-decoration: dashed;
+}
+@media screen and(max-width:300px){
+    body{
+        background-color: brown;
+    }
+}
+
